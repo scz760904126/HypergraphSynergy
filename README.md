@@ -7,3 +7,9 @@ This repository contains the code and data for "Multi-way relation-enhanced hype
 * numpy 1.19 or higher
 * pandas 1.3 or higer
 
+# Usage
+```sh
+  cd Model/HypergraphSynergy
+  python main.py
+  python main_reg.py
+```
