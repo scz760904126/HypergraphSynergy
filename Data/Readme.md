@@ -1,0 +1,1 @@
+Following a previous study \citep{sun2020dtf}, we ignored the order of the constituent drugs in each drug combination (i.e., drug A–drug B was considered equivalent to drug B–drug A) and maintained the drug combination sequences of the original databases when constructing the datasets.
